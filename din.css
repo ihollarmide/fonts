@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "DINCond-Bold";
+  src: url("./din/FF_DIN_Condensed_Bold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}

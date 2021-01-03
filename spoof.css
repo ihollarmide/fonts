@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Spoof';
+  src: url('./spoof/Spoof-Bold.eot');
+  src: local('Spoof Bold'), local('Spoof-Bold'),
+      url('./spoof/Spoof-Bold.eot?#iefix') format('embedded-opentype'),
+      url('./spoof/Spoof-Bold.woff2') format('woff2'),
+      url('./spoof/Spoof-Bold.woff') format('woff'),
+      url('./spoof/Spoof-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Spoof';
+  src: url('./spoof/Spoof-Black.eot');
+  src: local('Spoof Black'), local('Spoof-Black'),
+      url('./spoof/Spoof-Black.eot?#iefix') format('embedded-opentype'),
+      url('./spoof/Spoof-Black.woff2') format('woff2'),
+      url('./spoof/Spoof-Black.woff') format('woff'),
+      url('./spoof/Spoof-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}

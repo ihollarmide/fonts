@@ -1,0 +1,13 @@
+@font-face {
+  font-family: "Graphik";
+  src: url("./graphik/GraphikBold.otf") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Graphik";
+  src: url("./graphik/GraphikBlack.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}

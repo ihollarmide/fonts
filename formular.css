@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'Formular';
+  src: url('./formular/Formular.eot');
+  src: local('Formular Regular'), local('Formular-Regular'),
+      url('./formular/Formular?#iefix') format('embedded-opentype'),
+      url('./formular/Formular.woff2') format('woff2'),
+      url('./formular/Formular.woff') format('woff'),
+      url('./formular/Formular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Formular';
+  src: url('./formular/Formular-Medium.eot');
+  src: local('Formular Medium'), local('Formular-Medium'),
+      url('./formular/Formular-Medium.eot?#iefix') format('embedded-opentype'),
+      url('./formular/Formular-Medium.woff2') format('woff2'),
+      url('./formular/Formular-Medium.woff') format('woff'),
+      url('./formular/Formular-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Formular';
+  src: url('./formular/Formular-Bold.eot');
+  src: local('Formular Bold'), local('Formular-Bold'),
+      url('./formular/Formular-Bold.eot?#iefix') format('embedded-opentype'),
+      url('./formular/Formular-Bold.woff2') format('woff2'),
+      url('./formular/Formular-Bold.woff') format('woff'),
+      url('./formular/Formular-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
